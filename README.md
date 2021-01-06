@@ -1,15 +1,11 @@
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=linkedin&colorB=2867B2
+[linkedin-shield]: https://img.shields.io/badge/-GabrielMerigo-c14438?style=flat-square&logo=linkedin&colorB=2867B2
 [linkedin-url]: https://www.linkedin.com/in/gabrielmerigo/
+![Gmail Badge](https://img.shields.io/badge/-gabriel.merigo.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.merigo.dev@gmail.com)
 
-[gmail-shield]: https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&colorB=FD1D1D&logoColor=white
-[gmail-url]: mailto:gabriel.merigo.dev@gmail.com
-
-[instagram-shield]: https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&colorB=833AB4&logoColor=white
+[instagram-shield]: https://img.shields.io/badge/-@dev.gabriel.merigo-c14438?style=flat-square&logo=Instagram&colorB=833AB4&logoColor=white
 [instagram-url]: https://www.instagram.com/dev.gabriel_merigo/?hl=pt-br
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Gmail][gmail-shield]][gmail-url]
 [![Instagram][instagram-shield]][instagram-url]
 ## :smile: About me
 Hello, My name is Gabriel Merigo and i'm passionate about technology, reading books and programming. 
