@@ -7,15 +7,15 @@
 [instagram-url]: https://www.instagram.com/dev.gabriel_merigo/?hl=pt-br
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
-## :smile: About me
-Hello, My name is Gabriel Merigo and i'm passionate about technology, reading books and programming. 
+## :smile: Sobre mim
+Olá, Meu nome é Gabriel Merigo e sou apaixonado por tecnologia, leitura de livros e programação.
 
-## :balloon: Techs
+## :balloon: Tecnologia
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/th1ag0-Zz/)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-## :cherries: Operational systems
+## :cherries: Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
