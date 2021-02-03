@@ -10,7 +10,7 @@
 ## :smile: Sobre mim
 Olá, Meu nome é Gabriel Merigo e sou apaixonado por tecnologia, leitura de livros e programação.
 
-## :balloon: Tecnologia
+## :balloon: Tecnologias
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/th1ag0-Zz/)
