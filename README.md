@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
 ## :smile: Sobre mim
-Olá, Meu nome é Gabriel Merigo e sou apaixonado por tecnologia, leitura de livros e programação.
+Olá, Meu nome é Gabriel Merigo e sou apaixonado por tecnologia, livros e programação.
 
 ## :balloon: Tecnologias
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
