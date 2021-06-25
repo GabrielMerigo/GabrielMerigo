@@ -8,7 +8,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
 ## :smile: Sobre mim
-Olá, Meu nome é Gabriel Merigo e sou apaixonado por tecnologia e programação.
+Olá, Meu nome é Gabriel Merigo e apaixonado por programação.
+Atualmente trabalhando como desenvolvedor Front-end na Zallpy Digital.
 
 ## :balloon: Tecnologias
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
