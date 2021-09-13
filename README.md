@@ -1,22 +1,39 @@
+<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
 
-[linkedin-shield]: https://img.shields.io/badge/-GabrielMerigo-c14438?style=flat-square&logo=linkedin&colorB=2867B2
-[linkedin-url]: https://www.linkedin.com/in/gabrielmerigo/
-![Gmail Badge](https://img.shields.io/badge/-gabriel.merigo.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.merigo.dev@gmail.com)
+<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-[instagram-shield]: https://img.shields.io/badge/@dev.gabriel.merigo-c14438?style=flat-square&logo=Instagram&colorB=833AB4&logoColor=white
-[instagram-url]: https://www.instagram.com/dev.gabriel_merigo/?hl=pt-br
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][instagram-shield]][instagram-url]
-## :smile: Sobre mim
-Olá, Meu nome é Gabriel Merigo e apaixonado por programação.
-Atualmente trabalhando como desenvolvedor Front-end na Zallpy Digital.
+<p align="left"> 
+  🌎 Olá, meu nome é Gabriel Merigo. Sou <strong>Desenvolvedor de Front-End</strong>.
+</p>
 
-## :balloon: Tecnologias
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/th1ag0-Zz/)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="left">
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Next.js e Styled Components.</strong>
+</p>
 
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Figma, Insomnia, Vercel, Git e GitHub.</strong>
+</p>
 
-## :cherries: Sistemas Operacionais
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+<p align="left">
+  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/dev.gabriel.merigo/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/gabrielmerigo" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
+</p>
+
+### Experiência de trabalho
+Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="cdftv.svg"/>](https://www.instagram.com/codigofontetv/)
+
+[**Código Fonte TV**](https://www.instagram.com/codigofontetv/) \
+ Part-time • 8 meses\
+Serviços: `Programador`, `Front-End`\
+<br/>
