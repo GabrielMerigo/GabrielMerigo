@@ -35,5 +35,5 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 
 [**Zallpy Digital**](https://www.instagram.com/zallpydigital/) \
  Part-time • 8 meses\
-Serviços: `Programador Front-End`
+Serviços: `Desenvolvedor Front-End`
 <br/>
