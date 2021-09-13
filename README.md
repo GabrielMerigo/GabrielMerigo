@@ -35,5 +35,5 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 
 [**Código Fonte TV**](https://www.instagram.com/zallpy/) \
  Part-time • 8 meses\
-Serviços: `Programador`, `Front-End`\
+Serviços: `Programador Front-End`
 <br/>
