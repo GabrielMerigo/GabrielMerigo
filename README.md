@@ -31,9 +31,9 @@
 ### Experiência de trabalho
 Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="cdftv.svg"/>](https://www.instagram.com/codigofontetv/)
+[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="zallpy.jfif"/>](https://zallpy.com/)
 
-[**Código Fonte TV**](https://www.instagram.com/codigofontetv/) \
+[**Código Fonte TV**](https://www.instagram.com/zallpy/) \
  Part-time • 8 meses\
 Serviços: `Programador`, `Front-End`\
 <br/>
