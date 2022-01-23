@@ -42,6 +42,6 @@ Serviços: `Desenvolvedor Front-End`
 [<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEyJ1jL-QnR0g/company-logo_200_200/0/1615925461243?e=2159024400&v=beta&t=mrx7P-_2ptCXjT4o6fxDTmqPEW2gE3aqNGCglMKYiUY"/>](https://hartbgroup.com/tag/outsourcing/)
 
 [**Hartb**](https://hartbgroup.com/tag/outsourcing/) \
- Part-time • 3 meses\
+ Part-time • 5 meses\
 Serviços: `Desenvolvedor Front-End`
 <br/>
