@@ -34,7 +34,7 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 [<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="zallpy.jfif"/>](https://zallpy.com/)
 
 [**Zallpy Digital**](https://www.instagram.com/zallpydigital/) \
- Full-time • 1 ano\
+ Full-time • 1 ano e 1 mês\
 Serviços: `Desenvolvedor Front-End`
 <br/>
 <br/>
