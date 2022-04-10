@@ -3,7 +3,7 @@
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Olá, meu nome é Gabriel Merigo. Sou <strong>Desenvolvedor Front-End</strong>
+  🌎 Olá, meu nome é Gabriel Merigo. Sou <strong>Desenvolvedor Front-End.</strong>
 </p>
 
 <p align="left">
