@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Typescript, Next.js, Strapi, GraphQL, Jest, React Testing Library e Styled Components.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Typescript, Next.js, Strapi, GraphQL, Jest, React Testing Library, Storybook e Styled Components.</strong>
 </p>
 
 <p align="left">
