@@ -3,11 +3,11 @@
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Olá, meu nome é Gabriel Merigo. Sou <strong>Desenvolvedor Front-End</strong>
+  🌎 Olá, meu nome é Gabriel Merigo e sou <strong>Desenvolvedor Front-End</strong>
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Typescript, Next.js, Strapi, GraphQL, Jest, React Testing Library, Storybook e Styled Components.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, ReactJS, Typescript, Next.js, Strapi, GraphQL, Jest, React Testing Library, Storybook e Styled Components</strong>
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem
 </p>
 
 <p align="left">
