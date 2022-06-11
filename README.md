@@ -1,9 +1,15 @@
-<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
-
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
   🌎 Hi There! My name is Gabriel Merigo and I'm <strong>Front-End Developer</strong>
+</p>
+
+<p align="left">
+  💼 Tools: <strong>VSCode, Figma, Insomnia, Vercel, Git e GitHub</strong>
+</p>
+
+<p align="left" >
+  💌 if you want talk with me, you can send me a message
 </p>
 
 <p align="left">
@@ -14,14 +20,6 @@
   <a href="https://www.linkedin.com/in/gabrielmerigo" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
-</p>
-
-<p align="left">
-  💼 Tools: <strong>VSCode, Figma, Insomnia, Vercel, Git e GitHub</strong>
-</p>
-
-<p align="left" >
-  💌 if you want talk with me, you can send me a message
 </p>
 
 ### Experience of Work
