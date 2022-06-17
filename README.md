@@ -28,7 +28,7 @@ On below, you'll see my experience of work:
 [<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="zallpy.jfif"/>](https://zallpy.com/)
 
 [**Zallpy Digital**](https://www.instagram.com/zallpydigital/) \
- Full-time • 1 year and 4 months\
+ Full-time • 1 year and 5 months\
 Services: `Front-End Developer`
 <br/>
 <br/>
