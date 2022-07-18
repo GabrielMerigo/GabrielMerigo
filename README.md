@@ -23,7 +23,7 @@
 </p>
 
 ### Experience of Work
-On below, you'll see my experience of work:
+On below, you'll see my experience of work
 
 [<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="zallpy.jfif"/>](https://zallpy.com/)
 
