@@ -29,7 +29,7 @@ On below, you'll see my experience of work:
 
 [**Zallpy Digital**](https://www.instagram.com/zallpydigital/) \
  Full-time • 1 year and 5 months\
-Services: `Front-End Developer`
+Services: `Frontend Developer`
 <br/>
 <br/>
 <br/>
