@@ -37,7 +37,7 @@ Services: `Frontend Developer`
 
 [**Hartb**](https://hartbgroup.com/tag/outsourcing/) \
  Part-time • 5 months \
-Services: `Front-End Developer`
+Services: `Frontend Developer`
 <br/>
 <br/>
 
