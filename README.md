@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode, Figma, Insomnia, Vercel, Git e GitHub</strong>
+  💼 Tools: <strong>VSCode, Figma, Insomnia, Vercel, Git e GitHub.</strong>
 </p>
 
 <p align="left" >
