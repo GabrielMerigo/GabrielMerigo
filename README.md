@@ -28,7 +28,7 @@ On below, you'll see my experience of work:
 [<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="zallpy.jfif"/>](https://zallpy.com/)
 
 [**Zallpy Digital**](https://www.instagram.com/zallpydigital/) \
- Full-time • 1 year and 5 months\
+ Full-time • 1 year and 4 months\
 Services: `Frontend Developer`
 <br/>
 <br/>
@@ -36,7 +36,7 @@ Services: `Frontend Developer`
 [<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEyJ1jL-QnR0g/company-logo_200_200/0/1615925461243?e=2159024400&v=beta&t=mrx7P-_2ptCXjT4o6fxDTmqPEW2gE3aqNGCglMKYiUY"/>](https://hartbgroup.com/tag/outsourcing/)
 
 [**Hartb**](https://hartbgroup.com/tag/outsourcing/) \
- Part-time • 5 months \
+ Part-time • 7 months \
 Services: `Frontend Developer`
 <br/>
 <br/>
