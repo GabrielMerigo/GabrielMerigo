@@ -25,7 +25,7 @@
 ### Experience of Work
 On below, you'll see my experience of work:
 
-[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFsDg8I57X6xg/company-logo_100_100/0/1641829217207?e=1678924800&v=beta&t=e4uNREkRV919MfC_E2Ol0wQdgRFKDybwF6snTMx687Q"/>](https://zallpy.com/)
+[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFsDg8I57X6xg/company-logo_100_100/0/1641829217207?e=1678924800&v=beta&t=e4uNREkRV919MfC_E2Ol0wQdgRFKDybwF6snTMx687Q"/>](https://www.4all.com/en)
 
 [**4all**](https://www.4all.com/en) \
  Full-time • 8 Months \
