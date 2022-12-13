@@ -32,7 +32,6 @@ On below, you'll see my experience of work:
 Services: `Frontend Developer`
 <br/>
 <br/>
-<br/>
 
 [<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="zallpy.jfif"/>](https://www.4all.com/en)
 
