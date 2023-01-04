@@ -9,7 +9,7 @@
 </p>
 
 <p align="left" >
-  💌 if you want talk with me, you can send me a message.
+  💌 if you want talk with me, you can send me a message
 </p>
 
 <p align="left">
