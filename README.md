@@ -22,31 +22,6 @@
   </a>
 </p>
 
-### Experience of Work
-On below, you'll see my experience of work:
-
-[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFsDg8I57X6xg/company-logo_100_100/0/1641829217207?e=1678924800&v=beta&t=e4uNREkRV919MfC_E2Ol0wQdgRFKDybwF6snTMx687Q"/>](https://www.4all.com/en)
-
-[**4all**](https://www.4all.com/en) \
- Full-time • 9 Months \
-Services: `Frontend Developer`
-<br/>
-<br/>
-
-[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="zallpy.jfif"/>](https://www.4all.com/en)
-
-[**Zallpy Digital**](https://www.instagram.com/zallpydigital/) \
- Full-time • 1 year and 4 months\
-Services: `Frontend Developer`
-<br/>
-<br/>
-<br/>
-[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEyJ1jL-QnR0g/company-logo_200_200/0/1615925461243?e=2159024400&v=beta&t=mrx7P-_2ptCXjT4o6fxDTmqPEW2gE3aqNGCglMKYiUY"/>](https://hartbgroup.com/tag/outsourcing/)
-
-[**Hartb**](https://hartbgroup.com/tag/outsourcing/) \
- Part-time • 1 year and 1 month \
-Services: `Frontend Developer`
-<br/>
 <br/>
 
 ### 🦄 Skills
