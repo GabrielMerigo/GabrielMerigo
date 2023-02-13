@@ -22,8 +22,6 @@
   </a>
 </p>
 
-<br/>
-
 ### 🦄 Skills
 <div style="width:5px; height:10px">
   <img height="22" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
