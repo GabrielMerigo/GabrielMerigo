@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode, Figma, Insomnia, Vercel, Git e GitHub.</strong>
+  💼 Tools: <strong>VSCode, Figma, Insomnia, Vercel, Git e GitHub</strong>
 </p>
 
 <p align="left" >
-  💌 if you want talk with me, you can send me a message.
+  💌 if you want talk with me, you can send me a message
 </p>
 
 <p align="left">
