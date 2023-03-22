@@ -1,11 +1,11 @@
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Hi There! My name is Gabriel Merigo and I'm <b>Frontend Developer</b> and <b>Mobile Developer</b>
+  🌎 Hi There! My name is Gabriel Merigo and I'm <b>Frontend Developer</b> and <b>Mobile Developer.</b>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode, Figma, Insomnia, Vercel, Git e GitHub</strong>
+  💼 Tools: <strong>VSCode, Figma, Insomnia, Vercel, Git e GitHub.</strong>
 </p>
 
 <p align="left" >
