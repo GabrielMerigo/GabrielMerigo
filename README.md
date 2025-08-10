@@ -4,7 +4,7 @@ CTO @Nexus Software Development.
 
 [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/GabrielMerigo) 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Merigo-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/GabrielMerigo/)](https://www.linkedin.com/in/GabrielMerigo/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.merigo@nexus-sd.com)](mailto:gabriel.merigo@nexus-sd.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.merigo@nexus-sd.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.merigo@nexus-sd.com)](mailto:gabriel.merigo@nexus-sd.com)
 
 Enthusiast of the best web & mobile development technologies.
 
